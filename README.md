@@ -39,7 +39,7 @@ Common prototype-based medical image few-shot segmentation (FSS) methods model f
   </table>
 </div>
 
-**(a) Standard prototype model (SPM)**: 
+(a) Standard prototype model (SPM): 
 - Assigns distinct prototypes (centers) for different classes 
 - Directional separation (class regions: Voronoi cells)
 - Not good for modeling the highly heterogeneous background class from only a few prototypes
