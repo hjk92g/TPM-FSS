@@ -100,7 +100,7 @@ Run `./scripts/test_<abd, sabs>_2D.sh` for binary segmentation evaluation.
 
 Run `./scripts/test_multiclass_<abd, sabs>_2D.sh` for multi-class segmentation evaluation.
 
-Note that this repo is based on [ADNet repository](https://github.com/sha168/ADNet) and our implemented ADNet++ is different from [its original paper](https://doi.org/10.1016/j.media.2023.102870). We didn't implement "3.2.2. Uncertainty estimation" and "3.2.3. Supervoxel-informed feature refinement module". 
+Note that this repo is based on [ADNet repository](https://github.com/sha168/ADNet) and our implemented [ADNet++](https://doi.org/10.1016/j.media.2023.102870) is different from its original paper. We didn't implement "3.2.2. Uncertainty estimation" and "3.2.3. Supervoxel-informed feature refinement module". 
 
 
 
