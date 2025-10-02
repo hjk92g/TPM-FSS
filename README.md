@@ -112,6 +112,8 @@ If you use our research, we kindly ask you to cite our paper:
         author = {Kim, Hyeongji and Hansen, Stine and Kampffmeyer, Michael},
         booktitle = {International Conference on Medical Image Computing and Computer-Assisted Intervention},
         year = {2025},
-        publisher = {Springer},
-        pages = {660 -- 670}
+        publisher = {Springer Nature Switzerland},
+        volume = {LNCS 15962},
+        month = {September},
+        pages = {651 -- 661}
 }
